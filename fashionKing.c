@@ -2,9 +2,8 @@
 //fashion king Shin
 //23-05-16
 
-//By using YOGA13 this comment is added;
-
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 
 int combOfCloths(void);
