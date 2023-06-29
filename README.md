@@ -1,8 +1,8 @@
 # Journey-to-Beakjoon
-***
+
 ## Introduction
 Welcome to the enigmatic realm of "Journey to Beakjoon"! Embark on a mischievous and mysterious expedition through a labyrinth of coding challenges. Unleash your wit, cunning, and algorithmic prowess as you navigate the treacherous paths that lead to Beakjoon's hidden treasures.
-***
+
 ## Head Comment Example
 ```c
 //beakjoon problem number 1260
