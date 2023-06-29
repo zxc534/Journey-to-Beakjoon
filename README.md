@@ -4,12 +4,11 @@ Welcome to the enigmatic realm of "Journey to Beakjoon"! Embark on a mischievous
 
 ## Head Comment Example
 ```c
-//```뒤에 자신이 원하는 언어 (생략 가능)
+//```
 //beakjoon problem number 1260
 //dfs and bfs
 //start date : 23-06-28
 //solve date : 23-06-29
-
 ```
 
 
